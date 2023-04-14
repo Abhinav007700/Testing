@@ -1,0 +1,6 @@
+{
+    "name": "Testing",
+    "short_name": "Test",
+    "start_url":"index.html",
+    "scope": "/"
+}
