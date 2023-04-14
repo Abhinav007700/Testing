@@ -7,6 +7,9 @@
       "src": "icon.png",
       "sizes": "192x192",
       "type": "image/png"
-    }]
-  }
+    }],
+    "display": "standalone",
+    "theme_color": "rgb(0,255,255)",
+    "background_color": "#333"
+}
   
